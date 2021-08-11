@@ -1,3 +1,4 @@
+teks2 = "I've smelled something fishy here"
 3 + 7
 2*3
 sqrt(36)
